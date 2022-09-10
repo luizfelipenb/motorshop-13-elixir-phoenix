@@ -2,10 +2,10 @@ import Config
 
 # Configure your database
 config :motorshopelixirphoenix, Motorshopelixirphoenix.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "luiz",
+  password: "123",
   hostname: "localhost",
-  database: "motorshopelixirphoenix_dev",
+  database: "motorshop_elixir",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
